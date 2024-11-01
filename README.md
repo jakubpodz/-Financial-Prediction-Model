@@ -21,7 +21,7 @@ This project applies logistic regression to S&P 500 data for predicting market t
 
 2. Install required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install pandas numpy matplotlib seaborn scikit-learn
    ```
 
 ## Usage
